@@ -103,6 +103,25 @@ body {
 	color: #03a9f4;
 }
 
+.contact-info.education li {
+	margin-bottom: 15px;
+}
+
+.contact-info.education h5 {
+	color: #03a9f4;
+	font-weight: 500;
+}
+
+.contact-info.education h3 {
+	color: #fff;
+	font-weight: 500;
+}
+
+.contact-info.education h4 {
+	color: #fff;
+	font-weight: 300;
+}
+
 .container .right-side {
 	background: #fff;
 	position: relative;
