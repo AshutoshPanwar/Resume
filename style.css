@@ -186,6 +186,14 @@ body {
 
 .about p {
 	color: #003147;
+	line-height: 24px;
+	/* font-family: Arial, sans-serif; */
+}
+
+.about ul {
+	/* font-family: Arial, sans-serif; */
+	line-height: 24px;
+	list-style-type: circle;
 }
 
 /* Personal-Interests */
@@ -255,7 +263,7 @@ body {
 	background-color: #03a9f4;
 	padding: 3% 2% 3% 2%;
 	text-align: center;
-	border-radius: 10px;
+	border-radius: 8px;
 }
 
 /* Soft Skills */
