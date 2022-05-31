@@ -105,6 +105,9 @@ body {
 	color: #03a9f4;
 }
 /* Education-Info */
+.education {
+	padding-top: 0px;
+}
 .contact-info.education li {
 	margin-bottom: 15px;
 }
@@ -163,6 +166,36 @@ body {
 	left: 0;
 	height: 100%;
 	background: #03a9f4;
+}
+
+/* Certification */
+/* .certification {
+	margin-bottom: 0px;
+	padding: 0px;
+} */
+
+.certification .title2 {
+	color: #fff;
+	/* text-transform: uppercase; */
+	font-weight: 600;
+	letter-spacing: 1px;
+	margin-bottom: 10px;
+	padding-top: 30px;
+}
+
+.certification ul h5 {
+	color: #03a9f4;
+}
+
+.certification ul li {
+	list-style: none;
+	/* padding-bottom: 3%; */
+}
+
+.certification ul li a {
+	list-style: none;
+	text-decoration: none;
+	color: #fff;
 }
 
 /* Right-Side-of-Page */
