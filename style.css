@@ -318,3 +318,16 @@ body {
 	text-align: center;
 	border-radius: 50px;
 }
+
+.projects h2 {
+	padding-bottom: 3%;
+}
+
+.projects ul li {
+	list-style: none;
+	color: #03a9f4;
+}
+
+.projects ul li h3 {
+	padding-bottom: 1.5%;
+}
