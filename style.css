@@ -319,15 +319,22 @@ body {
 	border-radius: 50px;
 }
 
-.projects h2 {
+.projects h3 {
 	padding-bottom: 3%;
 }
 
-.projects ul li {
+.projects .title2 ul li {
 	list-style: none;
 	color: #03a9f4;
+	width: 90%;
+	text-decoration: none;
 }
 
 .projects ul li h3 {
 	padding-bottom: 1.5%;
+}
+
+.projects ul li a {
+	text-decoration: none;
+	color: #03a9f4;
 }
