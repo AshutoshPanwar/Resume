@@ -126,13 +126,14 @@ body {
 }
 
 /* Languages */
-.skills .title2 {
+.skills .title {
 	color: #fff;
 	/* text-transform: uppercase; */
 	font-weight: 600;
 	letter-spacing: 1px;
-	margin-bottom: 10px;
-	padding-top: 30px;
+	/* margin-bottom: 10px; */
+	padding-top: 3%;
+	padding-bottom: 5%;
 }
 
 .skills .box {
@@ -329,7 +330,10 @@ body {
 }
 
 .projects ul li h3 {
-	padding-bottom: 1.5%;
+	margin-top: 3%;
+}
+.projects ul li p {
+	margin-top: 1%;
 }
 
 .projects ul li a {
