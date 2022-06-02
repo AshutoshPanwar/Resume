@@ -77,9 +77,7 @@ body {
 	font-weight: 600;
 	letter-spacing: 1px;
 	margin-bottom: 20px;
-}
-
-.contact-info ul {
+	padding-top: 50px;
 }
 
 .contact-info ul li {
@@ -337,4 +335,42 @@ body {
 .projects ul li a {
 	text-decoration: none;
 	color: #03a9f4;
+}
+
+@media only screen and (max-width: 600px) {
+	.container {
+		grid-template-columns: repeat(1, 1fr);
+		/* font-size: large; */
+	}
+	.left-side {
+		font-size: x-large;
+		/* width: 80%; */
+	}
+	.certification li {
+		padding-top: 3%;
+	}
+	.certification li h5 {
+		padding-bottom: 3%;
+	}
+	.skills .box {
+		grid-template-columns: 190px 1fr;
+	}
+	.about {
+		font-size: large;
+	}
+	.skills1 ul {
+		grid-template-columns: repeat(3, 1fr);
+	}
+	.soft-skills ul {
+		grid-template-columns: repeat(3, 1fr);
+	}
+	.skills1 ul {
+		/* grid-template-columns: repeat(2, 1fr); */
+	}
+	.projects ul li {
+		padding-top: 5%;
+	}
+	.education ul li h5 {
+		padding-top: 3%;
+	}
 }
