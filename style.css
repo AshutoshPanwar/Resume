@@ -128,10 +128,8 @@ body {
 /* Languages */
 .skills .title {
 	color: #fff;
-	/* text-transform: uppercase; */
 	font-weight: 600;
 	letter-spacing: 1px;
-	/* margin-bottom: 10px; */
 	padding-top: 3%;
 	padding-bottom: 5%;
 }
@@ -147,7 +145,6 @@ body {
 }
 
 .skills .box h4 {
-	/* text-transform: uppercase; */
 	color: #f0f0f0;
 	font-weight: 500;
 }
@@ -167,15 +164,8 @@ body {
 	background: #03a9f4;
 }
 
-/* Certification */
-/* .certification {
-	margin-bottom: 0px;
-	padding: 0px;
-} */
-
 .certification .title2 {
 	color: #fff;
-	/* text-transform: uppercase; */
 	font-weight: 600;
 	letter-spacing: 1px;
 	margin-bottom: 10px;
@@ -188,7 +178,6 @@ body {
 
 .certification ul li {
 	list-style: none;
-	/* padding-bottom: 3%; */
 }
 
 .certification ul li a {
@@ -312,7 +301,6 @@ body {
 	color: #03a9f4;
 	font-weight: 500;
 	margin: 10px 0;
-	/* background-color: #03a9f4; */
 	padding: 3% 2% 3% 2%;
 	text-align: center;
 	border-radius: 50px;
@@ -344,11 +332,9 @@ body {
 @media only screen and (max-width: 600px) {
 	.container {
 		grid-template-columns: repeat(1, 1fr);
-		/* font-size: large; */
 	}
 	.left-side {
 		font-size: x-large;
-		/* width: 80%; */
 	}
 	.certification li {
 		padding-top: 3%;
@@ -367,9 +353,6 @@ body {
 	}
 	.soft-skills ul {
 		grid-template-columns: repeat(3, 1fr);
-	}
-	.skills1 ul {
-		/* grid-template-columns: repeat(2, 1fr); */
 	}
 	.projects ul li {
 		padding-top: 5%;
