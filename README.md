@@ -38,4 +38,3 @@ To view a live example, **[click here](http://ashutoshpanwar.me/Resume/)**
 
 -   HTML5
 -   CSS3
--   Js
